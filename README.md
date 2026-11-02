@@ -1,4 +1,3 @@
-[nurse_retention_calculator.html](https://github.com/user-attachments/files/34283736/nurse_retention_calculator.html)
 <!doctype html>
 <html lang="en">
 <head>
